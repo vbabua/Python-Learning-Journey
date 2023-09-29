@@ -28,7 +28,7 @@ Ensure you have the following installed on your local machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/learning-python-jupyter.git
+    git clone https://github.com/vbabua/Python-Learning-Journey.git
     ```
 
 2. Navigate to the project directory:

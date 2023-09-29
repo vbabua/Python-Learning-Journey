@@ -67,7 +67,7 @@ Feel free to fork this repository, create a new branch, and submit a pull reques
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 
